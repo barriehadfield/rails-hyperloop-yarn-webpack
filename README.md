@@ -1,24 +1,14 @@
-# README
+# Rails, Hyperloop, Yarn and Webpacker
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
++ Hyperloop from edge branch
++ React, ReactRouter via Yarn and Webpack
 
-Things you may want to cover:
+# Setup
 
-* Ruby version
++ `bundle`
++ `yarn`
 
-* System dependencies
+# Usage
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
++ `foreman start`
++ `http://localhost:3000/`
